@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Data-analysis-project |  This is a data science which analysing data from Netflix           | https://github.com/PacalineN/Data-analysis-project.git       |
+| 2 |friendly-octo-succotash| this is a python program that deals with encryption and decryption            |https://github.com/PacalineN/friendly-octo-succotash.git  |
+| 3 |ideal-happiness            |    This is a program that calculate tip using python programing          | https://github.com/PacalineN/ideal-happiness.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
